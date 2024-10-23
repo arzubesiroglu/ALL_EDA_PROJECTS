@@ -34,3 +34,7 @@ Bu repo, EDA projelerini iki farklı dilde içermektedir:
 👤 **Prepared by:** Arzu Beşiroğlu  
 🌍 **Let's explore the world of data together!** 🌍
 
+---
+
+
+
